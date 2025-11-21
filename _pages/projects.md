@@ -5,6 +5,8 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 display_categories:
+  - title: GINS
+    horizontal: true
   - title: Multi-robot System
     horizontal: false
   - title: ROS
